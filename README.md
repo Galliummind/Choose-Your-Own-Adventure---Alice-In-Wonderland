@@ -1,4 +1,4 @@
-### Helo My name is Louis 👋 
+### Hello My name is Louis AKA Galliummind 👋 
 #### I'm a Husband, Father, student, test technician, and aspiring programmer.
 
 - 🔭 I'm currently learning Javascript, NodeJS
