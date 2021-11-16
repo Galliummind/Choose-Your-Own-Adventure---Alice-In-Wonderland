@@ -1,0 +1,53 @@
+Bandersnatch
+a jaguar-like creature attacks! It's large, with a barrel chest and fore-paws that are quite dexterous. Its covered in shaggy white fur with dark gray spots, and has a somewhat flat face and long neck.
+10
+20
+Carpenter
+You stumble into a man, with pools of madness swirling in his eyes, he raises a hammer towards you to strike!
+5
+20
+Mock Turtle
+The Head of a horse and the body of a turtle, what was god trying to mock?
+5
+20
+Gryphon
+The head, talons, and wings of an eagle and the body of a lion.
+5
+20
+Knave of Hearts
+A solem man with an eye-patch stands solemnly before decending to meet you.
+8
+35
+Fish Footman
+The head of a fish and the body of a man!
+5
+20
+March Hare
+A wacky, mallet-carrying rabbit, he is a resident of Wonderland and the best friend of the Mad Hatter, with whom the Hare regularly engages in tea and "unbirthday" parties.
+5
+20
+Dodo
+A giant male Dodo with a dull beak and a stutter stands proudly...but ultimately looks awkward.
+5
+20
+Dutchess 
+The Duchess has a face that seems to droop from the massive headgear on her head. It almost seems like a basket of clothing has been folded above her head and stacked haphazardly.
+5
+20
+Bill the Lizzard
+Bill takes the form of a slender young man with lizard-like attributes, including a forked tongue, reptilian eyes, and green hair.
+5
+20
+Gardener of Spades
+They are playing cards with a human head, arms and legs. They are loyal gardeners as well as guards for The Queen of Hearts.
+5
+20
+Soldier of Clubs
+They are playing cards with a human head, arms and legs. They are loyal guards for The Queen of Hearts.
+5
+20
+Courtiers of Diamonds
+They are playing cards with a human head, arms and legs. They are loyal courtiers as well as guards for The Queen of Hearts.
+5
+20
+

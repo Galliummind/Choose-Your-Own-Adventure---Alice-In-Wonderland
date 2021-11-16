@@ -1,0 +1,13 @@
+Red Queen's crown
+This is an item, you can trade this item for points, throw, or gift this item.
+100
+Old brass knob
+The door with a face has given this old brass knob to Alice, It's old and worn
+100
+Chronosphere
+“A glowing, spinning, metallic sphere that belongs in the chamber of the Grand Clock that powers all time."
+1000
+Tea set
+The tea cups are wider at the bottom and small on top, How is anyone able to hold these comfortably?
+100
+

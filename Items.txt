@@ -1,0 +1,70 @@
+Crumpets
+You can eat this to restore health or deposit it for points, gift the item or throw the item.
+10
+Eat me cake
+You can eat this cake to increase your attack points, gift the item or throw the item. 
+10
+potion
+You can drink this potion to increase your starvation & thirst, gift the item or throw the item. 
+15
+Pocket Knife
+This is an item, you can trade this item for points, throw, or gift this item.
+10
+Palace guards Spear
+This is an item, you can trade this item for points, throw, or gift this item.
+20
+Key
+This is an item, you can trade this item for points, throw, or gift this item.
+34
+Mad Hatters Hat
+This is an item, you can trade this item for points, throw, or gift this item.
+21
+White Rabbit's Pocket-Watch
+This is an item, you can trade this item for points, throw, or gift this item.
+1
+Red Rose
+This is an item, you can trade this item for points, throw, or gift this item.
+50
+Yellow Flower
+This is an item, you can trade this item for points, throw, or gift this item.
+23
+Blue Flower
+This is an item, you can trade this item for points, throw, or gift this item.
+1
+Caterpillar's Hookah
+This is an item, you can trade this item for points, throw, or gift this item.
+500
+Kings Crown
+This is an item, you can trade this item for points, throw, or gift this item.
+45
+Palace guards Armor
+This is an item, you can trade this item for points, throw, or gift this item.
+55
+Palace guards Sword
+This is an item, you can trade this item for points, throw, or gift this item.
+10
+White Rose
+The Gardener's Accidently grew white Flowers!
+1
+Red Rose
+The Red Queen loves red roses!
+15
+Mad Hatter's Teacup
+This is the Mad Hatter's favorite teacup, it's all chipped.
+12
+Kid Gloves
+The White Rabbit dropped these when he ran from Alice.
+14
+Fan
+The White Rabbit used the fan to cool himeself off.
+22
+Orange Marmalade
+An empty jar of Orange marmalade.
+1
+golden Key
+30
+A golden Key, used on the garden door...Where could that be.
+Thimble
+23 
+The Dodo's most prized possesion, an ordinary thimble.
+
